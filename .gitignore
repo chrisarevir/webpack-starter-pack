@@ -1,0 +1,7 @@
+.changelog
+.DS_STORE
+.idea
+*.log
+build
+dist
+node_modules
